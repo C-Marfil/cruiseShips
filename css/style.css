@@ -193,7 +193,7 @@ form {
     color: white;
 }
 
-@media (max-width: 352px) {
+@media (max-width: 360px) {
         /* GENERAL STYLES */
 
 html, body {
